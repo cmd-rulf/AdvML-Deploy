@@ -1,6 +1,12 @@
 # AdvML-Deploy
 
 # **HEROKU DEPLOY GUIDE**
+### 1️⃣ ***METHOD 1: (Google Collab Guide)***
+
+<details>
+  <summary><b>Expand All Steps to Deploy <sup><kbd>Click Here</kbd></sup></b></summary>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishatgrepo/AdvML-Deploy/blob/main/honeyl_deploy.ipynb)
 
 ---
 
